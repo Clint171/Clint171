@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Spring Framework**
 
-- 👨‍💻 All of my projects are available at [clint-simiyu.onrender.com](clint-simiyu.onrender.com)
+- 👨‍💻 All of my projects are available at [clint-simiyu.onrender.com](https://clint-simiyu.onrender.com)
 
 - 📝 I write articles on [medium.com/@clintsimiyu004](medium.com/@clintsimiyu004)
 
