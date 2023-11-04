@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [clint-simiyu.onrender.com](https://clint-simiyu.onrender.com)
 
-- 📝 I write articles on [medium.com/@clintsimiyu004](medium.com/@clintsimiyu004)
+- 📝 I write articles on [medium.com/@clintsimiyu004](https://medium.com/@clintsimiyu004)
 
 - 💬 Ask me about **node.js express.js spring springboot mongodb**
 
