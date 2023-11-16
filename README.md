@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Clint G. L. Simiyu</h1>
 <h3 align="center">A passionate computer scientist and software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clint171&label=Profile%20views&color=0e75b6&style=flat" alt="clint171" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=clint171&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="clint171" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clint171" alt="clint171" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clint171&theme=tokyonight" alt="clint171" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/simiyuclint" target="blank"><img src="https://img.shields.io/twitter/follow/simiyuclint?logo=twitter&style=for-the-badge" alt="simiyuclint" /></a> </p>
+<p align="left"> <a href="https://twitter.com/simiyuclint" target="blank"><img src="https://img.shields.io/twitter/follow/simiyuclint?logo=twitter&style=for-the-badge&theme=tokyonight" alt="simiyuclint" /></a> </p>
 
 - 🌱 I’m currently learning **Java Spring Framework**
 
