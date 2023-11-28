@@ -7,21 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/simiyuclint" target="blank"><img src="https://img.shields.io/twitter/follow/simiyuclint?logo=twitter&style=for-the-badge&theme=tokyonight" alt="simiyuclint" /></a> </p>
 
-- 🌱 I’m currently learning **Java Spring Framework**
+- 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 All of my projects are available at [clint-simiyu.onrender.com](https://clint-simiyu.onrender.com)
+- 👨‍💻 All of my projects are available on [my portfolio](https://clint-simiyu.onrender.com)
 
-- 📝 I write articles on [medium.com/@clintsimiyu004](https://medium.com/@clintsimiyu004)
+- 📝 I write articles on [medium](https://medium.com/@clintsimiyu004)
 
 - 💬 Ask me about **node.js express.js spring springboot mongodb**
 
 - 📫 How to reach me **clintsimiyu004@gmail.com**
 
 - ⚡ Fun fact **I like playing chess**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
