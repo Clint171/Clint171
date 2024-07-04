@@ -51,8 +51,7 @@
 </div>
 
 ###
-
-<h2 align="left">Here are some articles I've written:</h2>
+[![committers.top badge](https://user-badge.committers.top/kenya/Clint171.svg)](https://user-badge.committers.top/kenya/Clint171)
 
 ###
 
