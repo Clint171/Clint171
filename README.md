@@ -52,11 +52,3 @@
 
 ###
 [![committers.top badge](https://user-badge.committers.top/kenya/Clint171.svg)](https://user-badge.committers.top/kenya/Clint171)
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@clintsimiyu004&theme=default" alt="Layout with last medium posts"  />
-</div>
-
-###
