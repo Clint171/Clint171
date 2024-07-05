@@ -2,6 +2,7 @@
 <h3 align="center">A backend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clint171&label=Profile%20views&color=0e75b6&style=flat" alt="clint171" /> </p>
+[![committers.top badge](https://user-badge.committers.top/kenya/USERNAME.svg)](https://user-badge.committers.top/kenya/USERNAME)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clint171" alt="clint171" /></a> </p>
 
