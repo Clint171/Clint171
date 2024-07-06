@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **clintsimiyu004@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-JAwypWhTe5Kle1kbUWEwvZV8Hby4HgX/edit?usp=sharing&ouid=108197535760086821263&rtpof=true&sd=true](https://docs.google.com/document/d/1-JAwypWhTe5Kle1kbUWEwvZV8Hby4HgX/edit?usp=sharing&ouid=108197535760086821263&rtpof=true&sd=true)
+- 📄 Know about my experiences [on my cv](https://docs.google.com/document/d/1-JAwypWhTe5Kle1kbUWEwvZV8Hby4HgX/edit?usp=sharing&ouid=108197535760086821263&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I love playing chess**
 
