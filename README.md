@@ -1,5 +1,6 @@
 # 💫 About Me:
-    🌱 I’m currently learning Devops Engineering, Computer Science<br><br>    👨‍💻 All of my projects are available at clint-simiyu.onrender.com<br><br>    📝 I regularly write articles on medium.com/@clintsimiyu004<br><br>    💬 Ask me about Frontend, Node.js, Python or Java<br><br>    📫 How to reach me clintsimiyu004@gmail.com<br><br>    📄 Know about my experiences on my cv<br><br>    ⚡ Fun fact I love playing chess
+
+🌱 I’m currently learning Devops Engineering, Computer Science<br><br>    👨‍💻 All of my projects are available at clint-simiyu.onrender.com<br><br>    📝 I regularly write articles on medium.com/@clintsimiyu004<br><br>    💬 Ask me about Frontend, Node.js, Python or Java<br><br>    📫 How to reach me clintsimiyu004@gmail.com<br><br>    📄 Know about my experiences on my cv<br><br>    ⚡ Fun fact I love playing chess
 
 
 ## 🌐 Socials:
