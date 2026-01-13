@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m currently learning AWS, Computer Science<br><br>    👨‍💻 All of my projects are available at clint-simiyu.onrender.com<br><br>    💬 Ask me about Frontend, Node.js, Python or DevOps Cloud<br><br>    📫 How to reach me: clintsimiyu004@gmail.com<br><br>    ⚡ Fun fact: I love playing chess (1.e4)
+🌱 I’m currently learning AWS, Computer Science<br><br>    💬 Ask me about Frontend, Node.js, Python or DevOps Cloud<br><br>    📫 How to reach me: clintsimiyu004@gmail.com<br><br>    ⚡ Fun fact: I love playing chess (1.e4)
 
 
 ## 🌐 Socials:
